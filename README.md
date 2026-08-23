@@ -8,5 +8,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3783-mirror-distance-of-an-integer](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
