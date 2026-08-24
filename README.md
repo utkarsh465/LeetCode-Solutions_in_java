@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1927-sum-game) |
+| [2469-convert-the-temperature](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2469-convert-the-temperature) |
 | [3783-mirror-distance-of-an-integer](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3945-digit-frequency-score) |
 ## String
