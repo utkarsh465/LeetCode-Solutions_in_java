@@ -23,6 +23,7 @@ class Solution {
         if((leftQuestionMarks+rightQuestionMarks)%2==1)
         return true;
 
-        return leftSum-rightSum!=9*(rightQuestionMarks-leftQuestionMarks)/2;
+        int questionDifference = 9*(rightQuestionMarks-leftQuestionMarks)/2;
+        return leftSum-rightSum != questionDifference;
     }
 }
