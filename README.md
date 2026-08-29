@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3945-digit-frequency-score](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1927-sum-game) |
 | [2469-convert-the-temperature](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2469-convert-the-temperature) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
