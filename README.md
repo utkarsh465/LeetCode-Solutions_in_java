@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0128-longest-consecutive-sequence) |
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0128-longest-consecutive-sequence) |
 | [0414-third-maximum-number](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0414-third-maximum-number) |
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0414-third-maximum-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
