@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0128-longest-consecutive-sequence) |
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3945-digit-frequency-score](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3945-digit-frequency-score) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -90,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
