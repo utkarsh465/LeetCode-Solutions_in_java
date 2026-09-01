@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1927-sum-game) |
