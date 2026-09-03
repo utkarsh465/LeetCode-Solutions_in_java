@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1927-sum-game) |
+| [2235-add-two-integers](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2469-convert-the-temperature) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
