@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0009-palindrome-number) |
+| [0335-self-crossing](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0335-self-crossing) |
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1927-sum-game) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0128-longest-consecutive-sequence) |
+| [0335-self-crossing](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0335-self-crossing) |
 | [0414-third-maximum-number](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0414-third-maximum-number) |
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2149-rearrange-array-elements-by-sign) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
