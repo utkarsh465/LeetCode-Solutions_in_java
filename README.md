@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0048-rotate-image) |
 | [0335-self-crossing](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0335-self-crossing) |
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0128-longest-consecutive-sequence) |
 | [0335-self-crossing](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0335-self-crossing) |
 | [0414-third-maximum-number](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0414-third-maximum-number) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0048-rotate-image) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
