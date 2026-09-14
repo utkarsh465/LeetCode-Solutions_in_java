@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0414-third-maximum-number) |
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2942-find-words-containing-character](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2942-find-words-containing-character) |
 | [3128-right-triangles](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3128-right-triangles) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Two Pointers
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3128-right-triangles](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3128-right-triangles) |
+## Backtracking
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
