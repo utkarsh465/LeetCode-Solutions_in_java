@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3128-right-triangles](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3128-right-triangles) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2942-find-words-containing-character) |
 | [3128-right-triangles](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3128-right-triangles) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
