@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3128-right-triangles](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3128-right-triangles) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
