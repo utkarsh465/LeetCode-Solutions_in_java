@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [3128-right-triangles](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3128-right-triangles) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3128-right-triangles](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3128-right-triangles) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3483-unique-3-digit-even-numbers](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Two Pointers
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2413-smallest-even-multiple) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
