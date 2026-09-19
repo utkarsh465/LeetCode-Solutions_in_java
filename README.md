@@ -164,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3483-unique-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
