@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0128-longest-consecutive-sequence) |
 | [0335-self-crossing](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0335-self-crossing) |
 | [0414-third-maximum-number](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -116,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0031-next-permutation) |
+| [0977-squares-of-a-sorted-array](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0977-squares-of-a-sorted-array) |
 ## Union-Find
 |  |
 | ------- |
