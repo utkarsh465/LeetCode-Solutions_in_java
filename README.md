@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0128-longest-consecutive-sequence) |
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3128-right-triangles](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3128-right-triangles) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3483-unique-3-digit-even-numbers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1927-sum-game](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2942-find-words-containing-character) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3128-right-triangles](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3128-right-triangles) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
