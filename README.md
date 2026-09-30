@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0128-longest-consecutive-sequence) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0031-next-permutation) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2149-rearrange-array-elements-by-sign) |
