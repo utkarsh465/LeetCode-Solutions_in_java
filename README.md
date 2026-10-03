@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0032-longest-valid-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1927-sum-game](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0032-longest-valid-parentheses) |
 | [0746-min-cost-climbing-stairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0746-min-cost-climbing-stairs) |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -193,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
