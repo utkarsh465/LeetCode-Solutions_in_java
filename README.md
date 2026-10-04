@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0678-valid-parenthesis-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1927-sum-game](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0678-valid-parenthesis-string) |
 | [1927-sum-game](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0746-min-cost-climbing-stairs) |
 | [1872-stone-game-viii](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -200,11 +203,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0678-valid-parenthesis-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/utkarsh465/LeetCode-Solutions_in_java/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
